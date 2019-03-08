@@ -1,0 +1,3 @@
+data中的文件格式：
+文件名“name_place.json”
+文件内部“{"name": ... , "place": ... ,"last_eaten_time": ... ,"left_eaten_num": ... }”
